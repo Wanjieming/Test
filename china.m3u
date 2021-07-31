@@ -1,3 +1,42 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="" tvg-name="CCTV1 综合" tvg-logo="" group-title="CHINESE CHANNEL",CCTV1 综合
+#EXTINF:-1 tvg-id="" tvg-name="CCTV1 综合" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-1 综合
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV2 财经" tvg-logo="" group-title="CHINESE CHANNEL",CCTV2 财经
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-4 国际" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-4 国际
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv4hd265/57/20191230/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-5 体育
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv5hd265/57/20191230/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-6 电影
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv6hd265/55/20200407/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-8 视剧
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv8hd265/55/20200407/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV9" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-9 记录
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/20200324/cctv9hd/57/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV10" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-10 科教
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV13" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-13 新闻
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/envivo_x/2018/SD/cctv13/2000/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Hunan" tvg-logo="" group-title="CHINESE CHANNEL",湖南卫视
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/hunanhd265/57/20191230/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Shenzhen" tvg-logo="" group-title="CHINESE CHANNEL",深圳卫视
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/ws_w/2018/szws/szws711/1000/index.m3u8?&encrypt=1#
+#EXTINF:-1 tvg-id="" tvg-name="Beijing" tvg-logo="" group-title="CHINESE CHANNEL",北京卫视
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/ws_w/2018/bjws/bjws2000/2000/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="TianJin" tvg-logo="" group-title="CHINESE CHANNEL",天津卫视
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd-tianjinhd-1200/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Anhui" tvg-logo="" group-title="CHINESE CHANNEL",安徽卫视
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/2018/ocn/anhuiwshd/2000/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Shandong" tvg-logo="" group-title="CHINESE CHANNEL",山东卫视
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd-shandonghd-1200/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="HeiLongJiang" tvg-logo="" group-title="CHINESE CHANNEL",黑龙江卫视
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd-heilongjianghd-1200/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Hubei" tvg-logo="" group-title="CHINESE CHANNEL",湖北卫视
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Liaoning" tvg-logo="" group-title="CHINESE CHANNEL",辽宁卫视
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?&encrypt=1
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Unknown" tvg-logo="" group-title="CHINESE CHANNEL",Unknown
+http://223.110.235.3/ott.js.chinamobile.com/PLTV/3/224/3221228057/index.m3u8
