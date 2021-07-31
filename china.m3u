@@ -9,6 +9,8 @@ http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv4hd265/57/20191230/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-5 体育
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv5hd265/57/20191230/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV-5+" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-5+ 体育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-6 电影
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv6hd265/55/20200407/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV8" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-8 视剧
