@@ -10,7 +10,7 @@ http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv4hd265/57/201912
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-5 体育
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv5hd265/57/20191230/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-5+" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-5+ 体育
-http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225761/index.m3u8
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?&encrypt=
 #EXTINF:-1 tvg-id="" tvg-name="CCTV6" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-6 电影
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv6hd265/55/20200407/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV7" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-7 军事
@@ -33,6 +33,41 @@ http://39.135.34.150:8080/000000001000/8203666801302077036/1.m3u8?
 http://39.135.34.150:8080/000000001000/1000000002000008163/1.m3u8?
 #EXTINF:-1 tvg-id="" tvg-name="CCTV17" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-17 农业
 http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="CCTV Golf" tvg-logo="" group-title="CHINESE CHANNEL",CCTV高尔夫·网球
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/gefwq/gefwq711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV Pool" tvg-logo="" group-title="CHINESE CHANNEL",CCTV台球
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV Foot" tvg-logo="" group-title="CHINESE CHANNEL",CCTV风云足球
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/fyzq/fyzq711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV Docu" tvg-logo="" group-title="CHINESE CHANNEL",CCTV央视文化精品
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ysjp/ysjp711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV Docu" tvg-logo="" group-title="CHINESE CHANNEL",CCTV兵器科技
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/gfjs/gfjs711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV Docu" tvg-logo="" group-title="CHINESE CHANNEL",CCTV风云音乐
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/fyyy/fyyy711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV Docu" tvg-logo="" group-title="CHINESE CHANNEL",CCTV女性时尚
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/nxss/nxss711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV Docu" tvg-logo="" group-title="CHINESE CHANNEL",CCTV风云剧场
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/fyjc/fyjc711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV Docu" tvg-logo="" group-title="CHINESE CHANNEL",CCTV怀旧剧场
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/hjjc/hjjc711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV Docu" tvg-logo="" group-title="CHINESE CHANNEL",CCTV第一剧场
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/dyjc/dyjc711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV Docu" tvg-logo="" group-title="CHINESE CHANNEL",CCTV世界地理
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/sjdl/sjdl711/1000/index.m3u8?ProgramID=&encrypt=1
+
+
+
+
+
+
+
+
+
+
+
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Hunan" tvg-logo="" group-title="CHINESE CHANNEL",湖南卫视
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/hunanhd265/57/20191230/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Shenzhen" tvg-logo="" group-title="CHINESE CHANNEL",深圳卫视
