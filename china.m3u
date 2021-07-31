@@ -55,9 +55,1180 @@ http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/hjjc/hjjc711/1000/index.m
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/dyjc/dyjc711/1000/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV Docu" tvg-logo="" group-title="CHINESE CHANNEL",CCTV世界地理
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/sjdl/sjdl711/1000/index.m3u8?ProgramID=&encrypt=1
-
-
-
+#EXTINF:-1 tvg-id="" tvg-name="CCTV Docu" tvg-logo="" group-title="CHINESE CHANNEL",云上电影院
+http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/virtuallive/5100180869/150/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV-1 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/cctv1hd265/57/20191230/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV-2 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/cctv2hd265/55/20200407/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV-4 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/cctv4hd265/57/20191230/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV-5 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/cctv5hd265/57/20191230/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV-6 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/cctv6hd265/55/20200407/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV-8 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/cctv8hd265/55/20200407/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV-11 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/cctv11hd265/55/20200407/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV-14 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/cctv14hd265/55/20200407/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV1综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv1/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV1综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv1/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV1综合HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv1hd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV1综合HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv1hd/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV1综合HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv1hd/1200/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV1综合HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv1hd/2500/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV2财* 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv2/350/index.m3u8?&&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV2财* 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv2/600/index.m3u8?&&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV2财*HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv2hd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV2财*HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv2hd/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV2财*HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv2hd/1500/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV2财*HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv2hd/3000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV3综艺 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/cctv3/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV3综艺 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/cctv3/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV3综艺HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018ocn/cctv3hd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV3综艺HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?&&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV3综艺HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv3hd/2000/index.m3u8?&&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV4中文国际 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv4/350/index.m3u8?&&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV4中文国际 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv4/1000/index.m3u8?&&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV4中文国际HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv4hd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV4中文国际HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv4hd/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV4中文国际HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv4hd/1500/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV4中文国际HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv4hd/3000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV4中文国际-欧洲HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4ouhd/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV4中文国际-欧洲HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4ouhd/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV4中文国际-美洲HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4meihd/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV4中文国际-美洲HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv4meihd/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV5体育 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5new/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV5体育 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5new/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV5体育HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5hdnew/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV5体育HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5hdnew/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV5体育HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5hdnew/1200/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV5体育HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5hdnew/2500/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV5+体育赛事 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5plusnew/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV5+体育赛事 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5plusnew/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV5+体育赛事HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5plusnew/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV5+体育赛事HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5plusnew/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV5+体育赛事HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5plusnew/1200/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV5+体育赛事HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv5plusnew/2500/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV6电影 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/cctv6/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV6电影 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/cctv6/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV6电影HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv6hd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV6电影HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv6hd/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV6电影HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv6hd/2000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV7国防军事 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv7/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV7国防军事 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv7/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV7国防军事HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv7hd/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV7国防军事HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv7hd/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV8电视剧 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv8/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV8电视剧 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/cctv8/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV8电视剧HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv8hd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV8电视剧HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv8hd/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV8电视剧HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv8hd/2000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV9纪录 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/cctv9/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV9纪录 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/cctv9/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV9纪录HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv9hd/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV9纪录HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv9hd/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV10科教 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv10/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV10科教 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv10/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV10科教HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv10hd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV10科教HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv10hd/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV10科教HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV11戏曲 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv11/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV11戏曲 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv11/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV11戏曲HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/cctv11hd/50/20200103/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV11戏曲HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/cctv11hd/51/20200103/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV12社会与法 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv12/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV12社会与法 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv12/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV12社会与法HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv12hd/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV12社会与法HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv12hd/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV13新闻 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv13/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV13新闻 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv13/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV14少儿 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv14/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV14少儿 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv14/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV14少儿HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv14hd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV14少儿HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv14hd/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV14少儿HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv14hd/2000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV15音乐 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv15/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV15音乐 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv15/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV15音乐HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv15hd/50/index.m3u8?&&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV15音乐HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv15hd/51/index.m3u8?&&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV17农村农业 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/201908/cctv17/500/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV17农村农业 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/201908/cctv17/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV17农村农业HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv17hd/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV17农村农业HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200324/cctv17hd/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV兵器科技 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/gfjs/gfjs450/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV兵器科技 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/gfjs/gfjs711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV怀旧剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/hjjc/hjjc450/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV怀旧剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/hjjc/hjjc711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV第一剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/dyjc/dyjc450/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV第一剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/dyjc/dyjc711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV风云剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/fyjc/fyjc450/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV风云剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/fyjc/fyjc711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV风云音乐 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/fyyy/fyyy450/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV风云音乐 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/fyyy/fyyy711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV风云足球 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/fyzq/fyzq450/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV风云足球 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/fyzq/fyzq711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV世界地理 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/sjdl/sjdl450/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV世界地理 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/sjdl/sjdl711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV文化精品 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ysjp/ysjp450/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV文化精品 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ysjp/ysjp711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV央视台球 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq450/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV央视台球 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/ystq/ystq711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV高尔夫网球 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/gefwq/gefwq450/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV高尔夫网球 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/gefwq/gefwq711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV女性时尚 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/nxss/nxss450/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV女性时尚 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/nxss/nxss711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CGTN 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctvnews/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CGTN 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctvnews/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CGTN纪录 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/cctv/doc/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CGTN纪录 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/cctv/doc/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CGTN阿拉伯语 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/SD/cctv/alabo/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CGTN阿拉伯语 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/SD/cctv/alabo/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CGTN法语 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/cctv/fayu/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CGTN法语 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/cctv/fayu/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CGTN西班牙语 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/cctv/xibanya/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CGTN西班牙语 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/cctv/xibanya/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CGTN俄语 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/cctv/eyu/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CGTN俄语 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/cctv/eyu/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CETV1中教1台 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cnr/cetv1/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CETV1中教1台 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cnr/cetv1/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CETV1中教1台HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cctv/cetv1hd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CETV1中教1台HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cctv/cetv1hd/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CETV2中教2台 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cnr/cetv2/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CETV2中教2台 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cnr/cetv2/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CETV3中教3台 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cnr/cetv3/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CETV3中教3台 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cnr/cetv3/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CETV4中教4台 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cnr/cetv4/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CETV4中教4台 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cnr/cetv4/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 北京卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/beijing/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 北京卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/beijing/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 北京卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/bjws/bjws450/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 北京卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/bjws/bjws711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dongfangwssd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dongfangwssd/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dongfangwshd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dongfangwshd/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dongfangwshd/1200/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dongfangwshd/3000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 天津卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-tianjinwssd-350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 天津卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-tianjinwssd-600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 天津卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-tianjinhd-350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 天津卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-tianjinhd-600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 天津卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-tianjinhd-1200/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 重庆卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/chongqing/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 重庆卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/chongqing/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 黑龙江卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-helongjiangwssd-350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 黑龙江卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-helongjiangwssd-600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 黑龙江卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-heilongjianghd-350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 黑龙江卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-heilongjianghd-600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 黑龙江卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-heilongjianghd-1200/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 吉林卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/jilin/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 吉林卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/jilin/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 辽宁卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/liaoning/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 辽宁卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/liaoning/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 辽宁卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/liaoningwshd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 辽宁卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/liaoningwshd/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 辽宁卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 内蒙古卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/neimeng/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 内蒙古卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/neimeng/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 宁夏卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/ningxia/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 宁夏卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/ningxia/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 甘肃卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/gansu/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 甘肃卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/gansu/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 青海卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/qinghai/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 青海卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/qinghai/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 陕西卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/shan3xi/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 陕西卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/shan3xi/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 河北卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/hebei/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 河北卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/hebei/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山西卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/shanxi/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山西卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/shanxi/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山东卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-shandongwssd-350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山东卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-shandongwssd-600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山东卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-shandonghd-350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山东卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-shandonghd-600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山东卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-shandonghd-1200/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 安徽卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-anhuiwssd-350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 安徽卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-anhuiwssd-600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 安徽卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/anhuiwshd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 安徽卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/anhuiwshd/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 安徽卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/anhuiwshd/2000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 河南卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-henanwssd-350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 河南卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-henanwssd-600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 湖北卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/hubei/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 湖北卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/hubei/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 湖北卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/hubeiwshd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 湖北卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/hubeiwshd/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 湖北卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/hubeiwshd/2000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 湖南卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-hunanhd-350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 湖南卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-hunanhd-600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 湖南卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-hunanhd-1200/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 湖南卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-hunanhd-2500/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 湖南卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/hunanhd265/57/20191230/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 湖南卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/hunan/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 湖南卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/hunan/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江西卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/jxwshd/50/20190820/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江西卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/jxwshd/51/20190820/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/jiangsuTV/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/jiangsuTV/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/jiangsuhd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/jiangsuhd/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/jiangsuhd/1200/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/jiangsuhd/2500/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 浙江卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/zhejiang/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 浙江卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/zhejiang/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 浙江卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/zhejianghd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 浙江卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/zhejianghd/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 浙江卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/zhejianghd/1200/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 浙江卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/zhejianghd/2500/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东南卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/bestv/dnws/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东南卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/bestv/dnws/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 广东卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/guangdong/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 广东卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/guangdong/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 广东卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/gdws/gdws450/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 广东卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/gdws/gdws711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 深圳卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/shenzhen/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 深圳卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/shenzhen/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 深圳卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/szws/szws450/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 深圳卫视HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/szws/szws711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 南方卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/2018/nfmedia/nfws/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 南方卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/2018/nfmedia/nfws/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 广西卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-guangxiwssd-350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 广西卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-guangxiwssd-600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 云南卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/yunnan/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 云南卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/yunnan/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 贵州卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-guizhouwssd-350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 贵州卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-guizhouwssd-600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 四川卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/sichuanTV/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 四川卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/sichuanTV/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 新疆卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-xinjiangwssd-350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 新疆卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-xinjiangwssd-600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 兵团卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/bttv/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 兵团卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_w/2018/SD/bttv/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 西藏卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/xizang/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 西藏卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/xizang/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 海南卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/SD/lvyou/450/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 海南卫视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/SD/lvyou/711/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 北京体育* 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/btv/btv6/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 北京体育* 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/btv/btv6/2000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 北京体育* 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/btv/btv6/3000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 四海钓鱼 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/shdiaoyu/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 四海钓鱼 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/shdiaoyu/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 四海钓鱼 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/shdiaoyu/1200/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 国学频道 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/ocn/shuhua/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 国学频道 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/ocn/shuhua/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 上海新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/xinwenzonghesd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 上海新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/xinwenzonghesd/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 上海新闻综合HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/xinwenzonghehd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 上海新闻综合HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/xinwenzonghehd/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 上海新闻综合HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/xinwenzonghehd/1200/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 上海新闻综合HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/xinwenzonghehd/3000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 第一财* 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/bestv/dycj/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 第一财* 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/bestv/dycj/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方影视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dianshijusd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方影视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dianshijusd/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方影视高清 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dianshijuhd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方影视高清 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dianshijuhd/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方影视高清 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dianshijuhd/1200/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方影视高清 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/dianshijuhd/3000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方都市 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/2018/dfl/yulesd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方都市 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/2018/dfl/yulesd/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方都市HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/yulehd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方都市HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/yulehd/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方都市HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/yulehd/1200/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 东方都市HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/yulehd/3000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 上海纪实人文 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/jishisd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 上海纪实人文 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/jishisd/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 上视纪实人文高清 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/jspdhd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 上视纪实人文高清 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/jspdhd/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 上视纪实人文高清 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/jspdhd/2000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 上海ICS 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/waiyusd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 上海ICS 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/dfl/waiyusd/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 哈哈炫动 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/xdkt/xdkt450/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 哈哈炫动 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/xdkt/xdkt711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 法治天地 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/fztd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 法治天地 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/fztd/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 游戏风云 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/ocn/youxifengyunhd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 游戏风云 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/ocn/youxifengyunhd/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 全纪实 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/ocn/quanjishihd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 全纪实HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/ocn/quanjishihd/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 全纪实 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/ocn/quanjishihd/1200/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 全纪实HD 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/ocn/quanjishihd/3000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 漳县综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/cnr/zhangxianzonghe/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 漳县综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/cnr/zhangxianzonghe/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 临洮电视台 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/linyaodst/50/20191206/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 临洮电视台 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/linyaodst/51/20191206/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 汉中新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/hanzhongzonghe/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 汉中新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/hanzhongzonghe/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 汉中公共 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/hanzhonggonggong/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 汉中公共 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/hanzhonggonggong/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 汉中留坝电视台 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/hzlbdianshitai/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 汉中留坝电视台 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/hzlbdianshitai/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", SDETV山东教育 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/shandongedu/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", SDETV山东教育 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/shandongedu/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 德州新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/dzxwzh/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 德州新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/dzxwzh/2000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 德州公共 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/dzgg/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 德州公共 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/dzgg/2000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 德州图文 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/dztw/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 德州图文 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/dztw/2000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山西经济资讯 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/cnr/sxjingjizixun/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山西经济资讯 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/cnr/sxjingjizixun/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山西影视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/cnr/sxyingshi/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山西影视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/cnr/sxyingshi/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山西科教 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/cnr/sxkejiao/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山西科教 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/cnr/sxkejiao/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山西公共 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/cnr/sxgonggong/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山西公共 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/cnr/sxgonggong/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山西少儿 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/cnr/sxshaoer/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山西少儿 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/cnr/sxshaoer/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山西黄河 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/cnr/sxhuanghe/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 山西黄河 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/cnr/sxhuanghe/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 中国黄河 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/cnr/zghuanghe/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 中国黄河 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/cnr/zghuanghe/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 恩施新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cnr/enshixinwen/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 恩施新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cnr/enshixinwen/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 恩施公共 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cnr/enshigonggong/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 恩施公共 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cnr/enshigonggong/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 长阳综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cnr/cyzonghe/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 长阳综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cnr/cyzonghe/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 孝感公共 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cnr/xiaogangonggong/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 孝感公共 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cnr/xiaogangonggong/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 金鹰纪实 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/jinyingjishi/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 金鹰纪实 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/jinyingjishi/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 金鹰纪实 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/cctv/jinyingjishi/1200/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏城市 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jschengshi/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏城市 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jschengshi/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏综艺 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jszongyi/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏综艺 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jszongyi/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏公共新闻 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jsgonggong/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏公共新闻 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jsgonggong/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏教育 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jsjiaoyu/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏教育 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jsjiaoyu/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏国际 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jsguoji/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏国际 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jsguoji/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏影视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jsyingshi/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏影视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jsyingshi/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏体育休闲 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jstiyu/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏体育休闲 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jstiyu/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏学习 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jsxuexi/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏学习 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jsxuexi/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏靓妆 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jsliangzhuang/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 江苏靓妆 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/jsliangzhuang/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 好享购物 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/hxgw/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 好享购物 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/hxgw/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 优漫卡通 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/ymkt/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 优漫卡通 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/ymkt/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 无锡新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/wxxinwenzonghe/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 无锡新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/wxxinwenzonghe/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 常州新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/czxinwenzonghe/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 常州新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/czxinwenzonghe/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 扬州新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/yzxinwenzonghe/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 扬州新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/yzxinwenzonghe/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 苏州新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/szxinwenzonghe/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 苏州新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/szxinwenzonghe/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 泰州新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/tzxinwenzonghe/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 泰州新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/tzxinwenzonghe/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 盐城新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/ycxinwenzonghe/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 盐城新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/ycxinwenzonghe/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 淮安新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/haxinwenzonghe/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 淮安新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/haxinwenzonghe/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 镇江新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/zjxinwenzonghe/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 镇江新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/zjxinwenzonghe/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 徐州新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/xzxinwenzonghe/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 徐州新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/xzxinwenzonghe/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 宿迁新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/sqxinwenzonghe/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 宿迁新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/sqxinwenzonghe/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 连云港新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/lygxinwenzonghe/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 连云港新闻综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/lygxinwenzonghe/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 浙江少儿 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/zj/se/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 浙江少儿 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/zj/se/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 杭州综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/hz/zh/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 杭州综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/hz/zh/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 杭州影视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/hz/ys/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 杭州影视 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/hz/ys/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 广东体育 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/2018/nfmedia/gdty/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 广东体育 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/2018/nfmedia/gdty/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 嘉佳卡通 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/nfmedia/jjkt/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 嘉佳卡通 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/nfmedia/jjkt/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 青海果洛电视台 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/guoluotv/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 青海果洛电视台 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/guoluotv/2000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 威远综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/wyzh/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 威远综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/wyzh/2000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", VIPKID直播课-幼儿 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200213/vipkid01/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", VIPKID直播课-幼儿 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200213/vipkid01/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", VIPKID直播课-小学1-2年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200213/vipkid02/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", VIPKID直播课-小学1-2年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200213/vipkid02/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", VIPKID直播课-小学3-4年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200213/vipkid03/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", VIPKID直播课-小学3-4年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200213/vipkid03/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", VIPKID直播课-小学5-6年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200213/vipkid04/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", VIPKID直播课-小学5-6年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200213/vipkid04/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校小学一年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi01/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校小学二年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi02/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校小学三年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi03/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校小学四年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi04/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校小学五年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi05/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校小学六年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi06/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校初中一年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi07/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校初中二年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi08/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校初中三年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi09/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校高中一年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi10/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校高中二年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi11/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校高中三年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi12/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂一年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian01/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂一年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian01/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂二年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian02/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂二年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian02/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂三年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian03/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂三年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian03/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂四年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian04/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂四年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian04/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂五年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian05/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂五年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian05/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂六年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian06/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂六年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian06/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂七年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian07/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂七年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian07/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂八年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian08/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂八年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian08/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂九年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian09/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂九年级 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian09/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂高一 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian10/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂高一 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian10/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂高二 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian11/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂高二 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian11/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂高三 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian12/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 空中课堂高三 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200222/jiaoyuzaixian12/51/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 黄金剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172024/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 黄金剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172024/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 军旅剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180303/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 军旅剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180303/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 抗战老片 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179384/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 抗战老片 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179384/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 少林剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179213/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 少林剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179213/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 喜剧联盟 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5101097468/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 喜剧联盟 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5101097468/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 情感剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179837/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 情感剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179837/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 精英剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354627/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 精英剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354627/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 热剧联播 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cctv/rejulianbo/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 热剧联播 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cctv/rejulianbo/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 高清大片 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cctv/gaoqingdapian/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 高清大片 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/cctv/gaoqingdapian/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 僵尸剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100192783/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 僵尸剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100192783/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 深夜失眠剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181674/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 深夜失眠剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181674/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 红色谍战剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5101079524/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 红色谍战剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5101079524/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 华视浪漫影院 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172368/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 华视浪漫影院 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172368/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 每日科幻电影 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172731/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 每日科幻电影 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100172731/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 追剧少女 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-virtuallive5100002089-50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 追剧少女 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-virtuallive5100002089-75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 怀旧老片 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100074916/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 怀旧老片 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100074916/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 武侠剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000755/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 武侠剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000755/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 精品网剧 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000751/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 精品网剧 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000751/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 假期剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000747/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 假期剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000747/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 国际剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179386/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 国际剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179386/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 经典频道 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179383/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 经典频道 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179383/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 精品剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/jpjc/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 精品剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/jpjc/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 高分影院 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000708/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 高分影院 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000708/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 新片放映厅 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-virtuallive5100030975-50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 新片放映厅 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-virtuallive5100030975-75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 华视火爆劲片 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100168805/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 华视火爆劲片 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100168805/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 成龙作品集 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010211/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 成龙作品集 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010211/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 周星驰影院 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100144102/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 周星驰影院 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100144102/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 吴京作品集 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180867/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 吴京作品集 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180867/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 刘德华影院 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354855/50/index.m3u8?&&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 刘德华影院 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354855/75/index.m3u8?&&encrypt=
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 经典贺岁片 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181836/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 经典贺岁片 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181836/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 古天乐影院 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000744/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 古天乐影院 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000744/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 郭富城影院 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010220/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 郭富城影院 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010220/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 刘亦菲影视展播 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010221/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 刘亦菲影视展播 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010221/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 高圆圆影视展播 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-virtuallive5100002172-50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 高圆圆影视展播 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-virtuallive5100002172-75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 古力娜扎影视展播 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100170828/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 古力娜扎影视展播 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100170828/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 葛优作品集 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354660/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 葛优作品集 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354660/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 金庸频道 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 金庸频道 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100181876/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 刘涛作品集 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100178547/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 刘涛作品集 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100178547/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 张国荣影院 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354727/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 张国荣影院 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5102354727/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 神探狄仁杰 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179816/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 神探狄仁杰 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179816/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 红楼剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100178536/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 红楼剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100178536/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 爱情公寓 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180868/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 爱情公寓 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180868/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 包青天 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179054/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 包青天 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179054/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 天龙八部集 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180869/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 天龙八部集 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5100180869/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 盗墓方法论 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179159/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 盗墓方法论 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179159/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 咪咕24小时体育台 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 咪咕24小时体育台 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/tysy201903/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 综艺现场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100074920/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 综艺现场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100074920/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", SNH48剧场公演 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-virtuallive5100002043-50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", SNH48剧场公演 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-virtuallive5100002043-75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 风尚音乐 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/fsyy/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 风尚音乐 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/fsyy/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 高清娱乐 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/zhpd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 高清娱乐 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/zhpd/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 超级飞侠 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010213/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 超级飞侠 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010213/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 小猪佩奇 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010216/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 小猪佩奇 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010216/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 少儿动漫 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/sedm/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 少儿动漫 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/sedm/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 快乐儿歌 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/gunbo/5102439680/50/20190827/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 快乐儿歌 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/gunbo/5102439680/51/20190827/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 益智学堂 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/gunbo/5102440005/50/20190827/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 益智学堂 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/gunbo/5102440005/51/20190827/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 梦幻童话 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/gunbo/5102439963/50/20190827/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 梦幻童话 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/gunbo/5102439963/51/20190827/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 英语启蒙 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/gunbo/5102440001/50/20190827/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 英语启蒙 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/gunbo/5102440001/51/20190827/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", BBC独家 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5101074616/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", BBC独家 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5101074616/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 探索纪录 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/tsjl/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 探索纪录 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/tsjl/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", Discovery王牌节目展播 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5101098146/50/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", Discovery王牌节目展播 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5101098146/75/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN电影综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/cnbn/cnbn450/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN电影综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/cnbn/cnbn711/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN院线大片 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/yuanxiandapian/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN院线大片 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/yuanxiandapian/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/xinqidian/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN综合 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/xinqidian/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN文旅中国 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/cibnlvyou/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN文旅中国 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/cibnlvyou/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN真人秀 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/peoplecn/cibnzhenrenxiu/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN真人秀 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/peoplecn/cibnzhenrenxiu/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN艺术院线 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/2018/peoplecn/cibnteadjpd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN艺术院线 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/2018/peoplecn/cibnteadjpd/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN纪录片 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/2018/peoplecn/cibnjlpd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN纪录片 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/2018/peoplecn/cibnjlpd/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN炫佳动漫 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/2018/peoplecn/cibndmpd/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN炫佳动漫 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/2018/peoplecn/cibndmpd/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN童学世界 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/2018/peoplecn/cibnrbjc/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN童学世界 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/2018/peoplecn/cibnrbjc/1000/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN流金岁月 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/cibnshoucang/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN流金岁月 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/cibnshoucang/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN风尚运动 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/cibnfsyd/50/20191029/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN风尚运动 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/cibnfsyd/51/20191029/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN经典剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/peoplecn/cibnjingdianjuchang/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN经典剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/peoplecn/cibnjingdianjuchang/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN违禁词语，请勿再发财* 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/cibndncj/50/20191029/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN违禁词语，请勿再发财* 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/cibndncj/51/20191029/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN微电影 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/cibnweimovie/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN微电影 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/cibnweimovie/600/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN骄阳剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/cibnjdjc/cibnjdjc450/350/index.m3u8?ProgramID=&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN骄阳剧场 
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/cibnjdjc/cibnjdjc711/1000/index.m3u8?ProgramID=&encrypt=1
 
 
 
