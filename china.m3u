@@ -192,8 +192,6 @@ http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv10/350/index.m
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV10科教 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv10/1000/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV10科教HD 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv10hd/350/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV10科教HD 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv10hd/1000/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV10科教HD 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv10hd/2000/index.m3u8?ProgramID=&encrypt=1
@@ -221,8 +219,6 @@ http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv13/1000/index.
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv14/350/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV14少儿 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctv14/1000/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV14少儿HD 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv14hd/350/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV14少儿HD 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv14hd/1000/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CCTV14少儿HD 
@@ -295,8 +291,6 @@ http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_x/2018/SD/cctvnews/1000/inde
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/cctv/doc/350/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CGTN纪录 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/2018/SD/cctv/doc/1000/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CGTN阿拉伯语 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/SD/cctv/alabo/350/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CGTN阿拉伯语 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/envivo_v/SD/cctv/alabo/1000/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CGTN法语 
@@ -813,18 +807,6 @@ http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/sqxinwenzonghe/600/index
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/lygxinwenzonghe/350/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 连云港新闻综合 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/jstv/lygxinwenzonghe/600/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 浙江少儿 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/zj/se/350/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 浙江少儿 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/zj/se/1000/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 杭州综合 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/hz/zh/350/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 杭州综合 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/hz/zh/1000/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 杭州影视 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/hz/ys/350/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 杭州影视 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_w/2018/hz/ys/1000/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 广东体育 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/2018/nfmedia/gdty/350/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 广东体育 
@@ -841,40 +823,6 @@ http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/guoluotv/2000/index.m3u8?
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/wyzh/1000/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 威远综合 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/cnr/wyzh/2000/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", VIPKID直播课-幼儿 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200213/vipkid01/50/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", VIPKID直播课-幼儿 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200213/vipkid01/51/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", VIPKID直播课-小学1-2年级 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200213/vipkid02/50/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", VIPKID直播课-小学1-2年级 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200213/vipkid02/51/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", VIPKID直播课-小学3-4年级 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200213/vipkid03/50/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", VIPKID直播课-小学3-4年级 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200213/vipkid03/51/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", VIPKID直播课-小学5-6年级 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200213/vipkid04/50/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", VIPKID直播课-小学5-6年级 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200213/vipkid04/51/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校小学一年级 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi01/51/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校小学二年级 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi02/51/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校小学三年级 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi03/51/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校小学四年级 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi04/51/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校小学五年级 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi05/51/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校小学六年级 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi06/51/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校初中一年级 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi07/51/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校初中二年级 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi08/51/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校初中三年级 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi09/51/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校高中一年级 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/kailu/20200204/xueersi10/51/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 学而思网校高中二年级 
@@ -1013,10 +961,6 @@ http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179386/75/ind
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179383/50/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 经典频道 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100179383/75/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 精品剧场 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/jpjc/350/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 精品剧场 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/jpjc/1000/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 高分影院 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/virtuallive/5101000708/50/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 高分影院 
@@ -1121,14 +1065,6 @@ http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5100074920/75/ind
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-virtuallive5100002043-50/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", SNH48剧场公演 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd-virtuallive5100002043-75/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 风尚音乐 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/fsyy/350/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 风尚音乐 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/fsyy/1000/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 高清娱乐 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/zhpd/350/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 高清娱乐 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/zhpd/1000/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 超级飞侠 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010213/50/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 超级飞侠 
@@ -1137,10 +1073,6 @@ http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010213/75/ind
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010216/50/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 小猪佩奇 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5102010216/75/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 少儿动漫 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/sedm/350/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 少儿动漫 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/sedm/1000/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 快乐儿歌 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/gunbo/5102439680/50/20190827/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 快乐儿歌 
@@ -1161,10 +1093,6 @@ http://39.134.216.5/live.hcs.cmvideo.cn:8088/migu/gunbo/5102440001/51/20190827/i
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5101074616/50/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", BBC独家 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r3/virtuallive/5101074616/75/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 探索纪录 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/tsjl/350/index.m3u8?ProgramID=&encrypt=1
-#EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", 探索纪录 
-http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r1/2018/wasu/tsjl/1000/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", Discovery王牌节目展播 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/virtuallive/5101098146/50/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", Discovery王牌节目展播 
@@ -1229,16 +1157,6 @@ http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r4/peoplecn/cibnweimovie/600/ind
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/cibnjdjc/cibnjdjc450/350/index.m3u8?ProgramID=&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Chinese" tvg-logo="" group-title="CHINESE CHANNEL", CIBN骄阳剧场 
 http://39.134.216.5/live.hcs.cmvideo.cn:8088/ws_v/2018/cibnjdjc/cibnjdjc711/1000/index.m3u8?ProgramID=&encrypt=1
-
-
-
-
-
-
-
-
-
-
 #EXTINF:-1 tvg-id="" tvg-name="Hunan" tvg-logo="" group-title="CHINESE CHANNEL",湖南卫视
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/hunanhd265/57/20191230/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="Shenzhen" tvg-logo="" group-title="CHINESE CHANNEL",深圳卫视
