@@ -3,6 +3,8 @@
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv1hd/2500/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV2 财经" tvg-logo="" group-title="CHINESE CHANNEL",CCTV2 财经
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=1
+#EXTINF:-1 tvg-id="" tvg-name="CCTV3" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-3 综艺
+http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CCTV-4 国际" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-4 国际
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv4hd265/57/20191230/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="" tvg-name="CCTV5" tvg-logo="" group-title="CHINESE CHANNEL",CCTV-5 体育
