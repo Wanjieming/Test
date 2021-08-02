@@ -4,7 +4,7 @@ http://39.134.216.5/mgsp.live.miguvideo.com:8088/wd_r2/cctv/cctv1hd/2500/index.m
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV2.png" group-title="China Mainland",CCTV2 财经
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv2hd265/55/20200407/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV3.png" group-title="China Mainland",CCTV-3 综艺
-http://111.63.117.13:6060/030000001000/CCTV-3/CCTV-3.m3u8
+http://39.134.216.5/live.hcs.cmvideo.cn:8088/wd_r2/2018/ocn/cctv3hd/1000/index.m3u8?&&encrypt=
 #EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV4.png" group-title="China Mainland",CCTV-4 国际
 http://39.134.216.5/mgsp.live.miguvideo.com:8088/migu/kailu/cctv4hd265/57/20191230/index.m3u8?&encrypt=1
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="http://epg.51zmt.top:8000/tb1/CCTV/CCTV5.png" group-title="China Mainland",CCTV-5 体育
