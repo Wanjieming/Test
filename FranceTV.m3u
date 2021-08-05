@@ -2214,3 +2214,248 @@ http://portal.alliptv.tv:8080/OeEgXaaAfi/15t6AXbgEp/42177
 
 #EXTINF:-1 tvg-logo="http://vod-logo.net/photos/4fd14e3b3187fde9cbaf2f0b6ba71493.png" group-title="FRANCE SPORTS",FR: RMC SPORT ACCESS 1 HD
 http://portal.alliptv.tv:8080/OeEgXaaA
+
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="FR: CANAL FRISON TV" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cine_plus_frisson.png" group-title="FRENCH",FR: CANAL FRISON TV
+http://qqtv.nl:8080/65055/65055/31301
+#EXTINF:-1 tvg-id="LeCanalNouvelles.ca" tvg-name="FR: LCN" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a6/La_Canal_Nouvelles_2014.png/150px-La_Canal_Nouvelles_2014.png" group-title="FRENCH",FR: LCN
+http://qqtv.nl:8080/65055/65055/21075
+#EXTINF:-1 tvg-id="MAX.ca" tvg-name="FR: MAX < V MEDIA GROUP" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fa/Max_TV_Canada.png" group-title="FRENCH",FR: MAX < V MEDIA GROUP
+http://qqtv.nl:8080/65055/65055/21072
+#EXTINF:-1 tvg-id="RDS.ca" tvg-name="FR: RDS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/RDS_logo.svg/200px-RDS_logo.svg.png" group-title="FRENCH",FR: RDS 1
+http://qqtv.nl:8080/65055/65055/21053
+#EXTINF:-1 tvg-id="Rtcg.hr" tvg-name="FR: ICI EXPLORA HD" tvg-logo="https://ds1.static.rtbf.be/article/image/370x208/a/4/f/c7da2202001ef3739c67954b4c9dbb31-1475823310.png" group-title="FRENCH",FR: ICI EXPLORA HD
+http://qqtv.nl:8080/65055/65055/31282
+#EXTINF:-1 tvg-id="RTLTVI.be" tvg-name="FR: RTL 9 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/RTL-TVI.png" group-title="FRENCH",FR: RTL 9 HD
+http://qqtv.nl:8080/65055/65055/31281
+#EXTINF:-1 tvg-id="SeriesPlus.ca" tvg-name="FR: ICI Tele HD HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/series-plus-ca.png" group-title="FRENCH",FR: ICI Tele HD HD
+http://qqtv.nl:8080/65055/65055/31280
+#EXTINF:-1 tvg-id="TF1.fr" tvg-name="FR: TF1 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tfo.png" group-title="FRENCH",FR: TF1 HD
+http://qqtv.nl:8080/65055/65055/31277
+#EXTINF:-1 tvg-id="TVLux.be" tvg-name="FR: TV 5 QUEBEC HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tv-5-quebec-canada-fr-ca.png" group-title="FRENCH",FR: TV 5 QUEBEC HD
+http://qqtv.nl:8080/65055/65055/31278
+#EXTINF:-1 tvg-id="CanalVie.ca" tvg-name="FR: CANAL V HD CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/VIER_logo.png/220px-VIER_logo.png" group-title="FRENCH",FR: CANAL V HD CANADA
+http://qqtv.nl:8080/65055/65055/31276
+#EXTINF:-1 tvg-id="VijfTV.be" tvg-name="FR: NOOVO SHERBROOKE HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/ec/VIJF_logo.png" group-title="FRENCH",FR: NOOVO SHERBROOKE HD
+http://qqtv.nl:8080/65055/65055/31275
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="FR: ES1 CANADA HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/ES1.png" group-title="FRENCH",FR: ES1 CANADA HD
+http://qqtv.nl:8080/65055/65055/31274
+#EXTINF:-1 tvg-id="SuperEcran2.ca" tvg-name="FR: SUPER ECRAN 2 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/super_ecran2.png" group-title="FRENCH",FR: SUPER ECRAN 2 HD
+http://qqtv.nl:8080/65055/65055/31267
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="FR: CANAL+ SERIES HD" tvg-logo="http://glmtv.pw/logo/prestige/France/canal-plus-susann-myanmar-fr-mm.png" group-title="FRENCH",FR: CANAL+ SERIES HD
+http://qqtv.nl:8080/65055/65055/31291
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="FR: CANAL SAVOIR HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d1/%C3%89%C3%A9n_logo_2015.png" group-title="FRENCH",FR: CANAL SAVOIR HD
+http://qqtv.nl:8080/65055/65055/31290
+#EXTINF:-1 tvg-id="LCI.fr" tvg-name="FR: LCI HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/ici-ca.png" group-title="FRENCH",FR: LCI HD
+http://qqtv.nl:8080/65055/65055/88276
+#EXTINF:-1 tvg-id="OCSCity.fr" tvg-name="FR: OCS CITY HD" tvg-logo="http://38.143.137.20/logo/prestige/France/OCS.png" group-title="FRENCH",FR: OCS CITY HD
+http://qqtv.nl:8080/65055/65055/31288
+#EXTINF:-1 tvg-id="I24News.fr" tvg-name="FR: i24 NEWS HD" tvg-logo="http://38.143.137.20/logo/prestige/Israel/i24-vews-il.png" group-title="FRENCH",FR: i24 NEWS HD
+http://qqtv.nl:8080/65055/65055/31286
+#EXTINF:-1 tvg-id="BFMTV.fr" tvg-name="FR: BFM TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/BFM_TV_logo.png/200px-BFM_TV_logo.png" group-title="FRENCH",FR: BFM TV
+http://qqtv.nl:8080/65055/65055/11693
+#EXTINF:-1 tvg-id="BFMBusiness.fr" tvg-name="FR: BFM BUSINESS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/BFM-Business_2010.png/200px-BFM-Business_2010.png" group-title="FRENCH",FR: BFM BUSINESS HD
+http://qqtv.nl:8080/65055/65055/11666
+#EXTINF:-1 tvg-id="LaTrois.be" tvg-name="FR: LA TROIS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/da/La_trois_HD.png" group-title="FRENCH",FR: LA TROIS HD
+http://qqtv.nl:8080/65055/65055/31285
+#EXTINF:-1 tvg-id="M6.fr" tvg-name="FR: M6 HD" tvg-logo="http://www.bce.lu/wp-content/uploads/2016/06/LOGO-M6.png" group-title="FRENCH",FR: M6 HD
+http://qqtv.nl:8080/65055/65055/31307
+#EXTINF:-1 tvg-id="01TV.fr" tvg-name="FR: NOOVO MONTREAL HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cinema_reunion.png" group-title="FRENCH",FR: NOOVO MONTREAL HD
+http://qqtv.nl:8080/65055/65055/31294
+#EXTINF:-1 tvg-id="CinePlusFamiz.mu" tvg-name="FR: CINE+ FAMIZ" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cine_plus_famiz.png" group-title="FRENCH",FR: CINE+ FAMIZ
+http://qqtv.nl:8080/65055/65055/31293
+#EXTINF:-1 tvg-id="TCM.fr" tvg-name="FR: TCM CINEMA HD" tvg-logo="http://38.143.137.20/logo/prestige/France/tcm-cinema-us-fr.png" group-title="FRENCH",FR: TCM CINEMA HD
+http://qqtv.nl:8080/65055/65055/31292
+#EXTINF:-1 tvg-id="RDS2.ca" tvg-name="FR: RDS 2" tvg-logo="http://38.143.137.20/logo/prestige/Canada/rds_ca_2.png" group-title="FRENCH",FR: RDS 2
+http://qqtv.nl:8080/65055/65055/4992
+#EXTINF:-1 tvg-id="CanalEvasion.ca" tvg-name="FR: EVASION" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/f7/%C3%89vasion_logo.svg/150px-%C3%89vasion_logo.svg.png" group-title="FRENCH",FR: EVASION
+http://qqtv.nl:8080/65055/65055/5012
+#EXTINF:-1 tvg-id="Planet.de" tvg-name="FR: PLANETE A&E" tvg-logo="http://38.143.137.20/logo/prestige/France/planete_plus_action_experience.png" group-title="FRENCH",FR: PLANETE A&E
+http://qqtv.nl:8080/65055/65055/8648
+#EXTINF:-1 tvg-id="ParisPremiere.mu" tvg-name="FR: PARIS PREMIERE" tvg-logo="http://38.143.137.20/logo/prestige/France/paris_premiere.png" group-title="FRENCH",FR: PARIS PREMIERE
+http://qqtv.nl:8080/65055/65055/8651
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="FR: CANAL+ DECALE HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_decale.png" group-title="FRENCH",FR: CANAL+ DECALE HD
+http://qqtv.nl:8080/65055/65055/8660
+#EXTINF:-1 tvg-id="AB1.fr" tvg-name="FR: AB 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/AB1.png" group-title="FRENCH",FR: AB 1 HD
+http://qqtv.nl:8080/65055/65055/8663
+#EXTINF:-1 tvg-id="C8.fr" tvg-name="FR: C8 HD" tvg-logo="https://www.stream4free.live/images/avatars/c8.png" group-title="FRENCH",FR: C8 HD
+http://qqtv.nl:8080/65055/65055/11631
+#EXTINF:-1 tvg-id="ARTE.fr" tvg-name="FR: ARTE HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/vu_ca_tele_a_la_carte_00_hd.png" group-title="FRENCH",FR: ARTE HD
+http://qqtv.nl:8080/65055/65055/11632
+#EXTINF:-1 tvg-id="Gulli.fr" tvg-name="FR: GULLI" tvg-logo="https://i.pinimg.com/originals/10/ef/21/10ef21abf141546b42b8332bacfba21f.png" group-title="FRENCH",FR: GULLI
+http://qqtv.nl:8080/65055/65055/11633
+#EXTINF:-1 tvg-id="CanalPlusSeries.mu" tvg-name="FR: CANAL SERIES" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_series.png" group-title="FRENCH",FR: CANAL SERIES
+http://qqtv.nl:8080/65055/65055/11634
+#EXTINF:-1 tvg-id="6ter.fr" tvg-name="FR: 6 TER" tvg-logo="http://38.143.137.20/logo/prestige/France/6ter_fr.png" group-title="FRENCH",FR: 6 TER
+http://qqtv.nl:8080/65055/65055/11636
+#EXTINF:-1 tvg-id="CanalJ.fr" tvg-name="FR: CANAL J HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canal_j_fr.png" group-title="FRENCH",FR: CANAL J HD
+http://qqtv.nl:8080/65055/65055/11645
+#EXTINF:-1 tvg-id="W9.fr" tvg-name="FR: W9" tvg-logo="http://38.143.137.20/logo/prestige/France/w9_fr.png" group-title="FRENCH",FR: W9
+http://qqtv.nl:8080/65055/65055/11646
+#EXTINF:-1 tvg-id="Voyage.fr" tvg-name="FR: VOYAGE" tvg-logo="http://38.143.137.20/logo/prestige/France/voyage_fr.png" group-title="FRENCH",FR: VOYAGE
+http://qqtv.nl:8080/65055/65055/11647
+#EXTINF:-1 tvg-id="SuperEcran.ca" tvg-name="FR: SUPER ECRAN 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/super_ecran1.png" group-title="FRENCH",FR: SUPER ECRAN 1 HD
+http://qqtv.nl:8080/65055/65055/31264
+#EXTINF:-1 tvg-id="UshuaiaTv.mu" tvg-name="FR: USHUAIA TV" tvg-logo="http://38.143.137.20/logo/prestige/France/ushuaia-tv-fr.png" group-title="FRENCH",FR: USHUAIA TV
+http://qqtv.nl:8080/65055/65055/11648
+#EXTINF:-1 tvg-id="Teva.mu" tvg-name="FR: TEVA HD" tvg-logo="http://38.143.137.20/logo/prestige/France/teva_fr.png" group-title="FRENCH",FR: TEVA HD
+http://qqtv.nl:8080/65055/65055/11649
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="FR: TELETOON HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_pl_teletoon.png" group-title="FRENCH",FR: TELETOON HD
+http://qqtv.nl:8080/65055/65055/11650
+#EXTINF:-1 tvg-id="SerieClub.fr" tvg-name="FR: SERIE CLUB HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/series-plus-ca.png" group-title="FRENCH",FR: SERIE CLUB HD
+http://qqtv.nl:8080/65055/65055/11651
+#EXTINF:-1 tvg-id="" tvg-name="FR: RTS DEUX" tvg-logo="https://televisiongratuite.com/wp-content/uploads/2018/10/RTS-deux.jpg" group-title="FRENCH",FR: RTS DEUX
+http://qqtv.nl:8080/65055/65055/11653
+#EXTINF:-1 tvg-id="Planet.de" tvg-name="FR: PLANETE HD" tvg-logo="http://kbbpf.lescigales.org/Logos/PLANETE-PLUS.HD.png" group-title="FRENCH",FR: PLANETE HD
+http://qqtv.nl:8080/65055/65055/11654
+#EXTINF:-1 tvg-id="Moicie.ca" tvg-name="FR: MOI & CIE HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/moi-et-cie-ca.png" group-title="FRENCH",FR: MOI & CIE HD
+http://qqtv.nl:8080/65055/65055/11659
+#EXTINF:-1 tvg-id="NRJ12.fr" tvg-name="FR: NRJ 12" tvg-logo="http://38.143.137.20/logo/prestige/France/nrj_fr_12.png" group-title="FRENCH",FR: NRJ 12
+http://qqtv.nl:8080/65055/65055/11661
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="FR: NICKELODEON" tvg-logo="http://38.143.137.20/logo/prestige/France/nickelodeon_us.png" group-title="FRENCH",FR: NICKELODEON
+http://qqtv.nl:8080/65055/65055/11662
+#EXTINF:-1 tvg-id="Syfy.fr" tvg-name="FR: SYFY HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/SYFY.svg/220px-SYFY.svg.png" group-title="FRENCH",FR: SYFY HD
+http://qqtv.nl:8080/65055/65055/11667
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="FR: E! ENTERTAINEMENT HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/e_global_us.png" group-title="FRENCH",FR: E! ENTERTAINEMENT HD
+http://qqtv.nl:8080/65055/65055/11668
+#EXTINF:-1 tvg-id="LaChaineParlementaire.fr" tvg-name="FR: LCP" tvg-logo="http://38.143.137.20/logo/prestige/France/lcp-100percent-fr.png" group-title="FRENCH",FR: LCP
+http://qqtv.nl:8080/65055/65055/11671
+#EXTINF:-1 tvg-id="UHD1.de" tvg-name="FR: HD1" tvg-logo="https://www.tntendirect.com/images/channel/tf1.png" group-title="FRENCH",FR: HD1
+http://qqtv.nl:8080/65055/65055/11677
+#EXTINF:-1 tvg-id="LaUne.be" tvg-name="FR: LA UNE" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_a_la_une.png" group-title="FRENCH",FR: LA UNE
+http://qqtv.nl:8080/65055/65055/11672
+#EXTINF:-1 tvg-id="FootPlus24.fr" tvg-name="FR: FOOT 24" tvg-logo="http://38.143.137.20/logo/prestige/France/canalsat_fr_foot_plus.png" group-title="FRENCH",FR: FOOT 24
+http://qqtv.nl:8080/65055/65055/11674
+#EXTINF:-1 tvg-id="TouteHistoire.fr" tvg-name="FR: TOUTE L HISTOIRE" tvg-logo="https://d3v4jsc54141g1.cloudfront.net/uploads/mentor/avatar/65859/normal_toutel_histoire.png" group-title="FRENCH",FR: TOUTE L HISTOIRE
+http://qqtv.nl:8080/65055/65055/11676
+#EXTINF:-1 tvg-id="ParamountChannel.fr" tvg-name="FR: PARAMOUNT CHANNEL" tvg-logo="http://38.143.137.20/logo/prestige/France/paramount_channel_us.png" group-title="FRENCH",FR: PARAMOUNT CHANNEL
+http://qqtv.nl:8080/65055/65055/11655
+#EXTINF:-1 tvg-id="" tvg-name="FR: GOLF CHANNEL HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_golf_plus.png" group-title="FRENCH",FR: GOLF CHANNEL HD
+http://qqtv.nl:8080/65055/65055/11678
+#EXTINF:-1 tvg-id="EquidiaLive.mu" tvg-name="FR: EQUIDIA LIVE" tvg-logo="http://www.chevalmag.com/var/chevalmag/storage/images/actualites/divers/equidia-life-en-danger/5083671-1-fre-FR/Equidia-Life-en-danger_photo_a_la_une.png" group-title="FRENCH",FR: EQUIDIA LIVE
+http://qqtv.nl:8080/65055/65055/11683
+#EXTINF:-1 tvg-id="PlanetePlusCi.mu" tvg-name="FR: PLANETE CI" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_pl_planete.png" group-title="FRENCH",FR: PLANETE CI
+http://qqtv.nl:8080/65055/65055/11684
+#EXTINF:-1 tvg-id="MeteoMedia.ca" tvg-name="FR: METEO MEDIA MONTREAL HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/meteo_media.png" group-title="FRENCH",FR: METEO MEDIA MONTREAL HD
+http://qqtv.nl:8080/65055/65055/11689
+#EXTINF:-1 tvg-id="Action.fr" tvg-name="FR: ACTION HD" tvg-logo="http://38.143.137.20/logo/prestige/France/action_fr.png" group-title="FRENCH",FR: ACTION HD
+http://qqtv.nl:8080/65055/65055/11692
+#EXTINF:-1 tvg-id="CinePlusClub.mu" tvg-name="FR: CINE+ CLUB HD" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/285.png" group-title="FRENCH",FR: CINE+ CLUB HD
+http://qqtv.nl:8080/65055/65055/11625
+#EXTINF:-1 tvg-id="CinePlusEmotion.mu" tvg-name="FR: CINE+ EMOTION" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cine_plus_emotion.png" group-title="FRENCH",FR: CINE+ EMOTION
+http://qqtv.nl:8080/65055/65055/11627
+#EXTINF:-1 tvg-id="CinePlusFrisson.mu" tvg-name="FR: CINE+ FRISSON" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cine_plus_frisson.png" group-title="FRENCH",FR: CINE+ FRISSON
+http://qqtv.nl:8080/65055/65055/11628
+#EXTINF:-1 tvg-id="CinePlusPremier.mu" tvg-name="FR: CINE+ PREMIER HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cine_plus_premier.png" group-title="FRENCH",FR: CINE+ PREMIER HD
+http://qqtv.nl:8080/65055/65055/11626
+#EXTINF:-1 tvg-id="SkyCinemaComedy.it" tvg-name="FR: CINE+ CLASSIC HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cine_plus_classic.png" group-title="FRENCH",FR: CINE+ CLASSIC HD
+http://qqtv.nl:8080/65055/65055/275633
+#EXTINF:-1 tvg-id="CanalPlusFamily.fr" tvg-name="FR: CANAL+ FAMILY HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_family.png" group-title="FRENCH",FR: CANAL+ FAMILY HD
+http://qqtv.nl:8080/65055/65055/11630
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="FR: BEIN MOVIES DRAMA" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-series-drama-qa-tr.png" group-title="FRENCH",FR: BEIN MOVIES DRAMA
+http://qqtv.nl:8080/65055/65055/31219
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="FR: BEIN MOVIES FAMILY" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-movies-family-qa-tr.png" group-title="FRENCH",FR: BEIN MOVIES FAMILY
+http://qqtv.nl:8080/65055/65055/31218
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="FR: BEIN MOVIES PREMIERE" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-movies-premiere-qa-tr.png" group-title="FRENCH",FR: BEIN MOVIES PREMIERE
+http://qqtv.nl:8080/65055/65055/31217
+#EXTINF:-1 tvg-id="247Retro.us" tvg-name="FR: BEIN MOVIES ACTION HD" tvg-logo="http://glmtv.pw/logo/prestige/Turkey/bein-movies-action-qa-tr.png" group-title="FRENCH",FR: BEIN MOVIES ACTION HD
+http://qqtv.nl:8080/65055/65055/31220
+#EXTINF:-1 tvg-id="France2.fr" tvg-name="FR: FRANCE 2" tvg-logo="http://38.143.137.20/logo/prestige/France/france2-fr.png" group-title="FRENCH",FR: FRANCE 2
+http://qqtv.nl:8080/65055/65055/88274
+#EXTINF:-1 tvg-id="France3.fr" tvg-name="FR: FRANCE 3" tvg-logo="http://38.143.137.20/logo/prestige/France/france3-fr.png" group-title="FRENCH",FR: FRANCE 3
+http://qqtv.nl:8080/65055/65055/88273
+#EXTINF:-1 tvg-id="France4.fr" tvg-name="FR: FRANCE 4" tvg-logo="http://38.143.137.20/logo/prestige/France/france4-fr.png" group-title="FRENCH",FR: FRANCE 4
+http://qqtv.nl:8080/65055/65055/88272
+#EXTINF:-1 tvg-id="France5.fr" tvg-name="FR: FRANCE 5" tvg-logo="http://38.143.137.20/logo/prestige/France/france5-fr.png" group-title="FRENCH",FR: FRANCE 5
+http://qqtv.nl:8080/65055/65055/88271
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 1" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cinema_reunion.png" group-title="FRENCH",FR: CANAL PLAY 1
+http://qqtv.nl:8080/65055/65055/31321
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 2" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cinema_reunion.png" group-title="FRENCH",FR: CANAL PLAY 2
+http://qqtv.nl:8080/65055/65055/31320
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 3" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cinema_reunion.png" group-title="FRENCH",FR: CANAL PLAY 3
+http://qqtv.nl:8080/65055/65055/31319
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 4" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cinema_reunion.png" group-title="FRENCH",FR: CANAL PLAY 4
+http://qqtv.nl:8080/65055/65055/31318
+#EXTINF:-1 tvg-id="CanalPlus1.pl" tvg-name="FR: CANAL PLAY 5" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cinema_reunion.png" group-title="FRENCH",FR: CANAL PLAY 5
+http://qqtv.nl:8080/65055/65055/31317
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="FR: A LA CARTE 1" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="FRENCH",FR: A LA CARTE 1
+http://qqtv.nl:8080/65055/65055/11644
+#EXTINF:-1 tvg-id="" tvg-name="FR: A LA CARTE 2" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="FRENCH",FR: A LA CARTE 2
+http://qqtv.nl:8080/65055/65055/11642
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="FR: A LA CARTE 3" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="FRENCH",FR: A LA CARTE 3
+http://qqtv.nl:8080/65055/65055/11641
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="FR: A LA CARTE 4" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="FRENCH",FR: A LA CARTE 4
+http://qqtv.nl:8080/65055/65055/11640
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="FR: A LA CARTE 5" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="FRENCH",FR: A LA CARTE 5
+http://qqtv.nl:8080/65055/65055/11639
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="FR: A LA CARTE 6" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="FRENCH",FR: A LA CARTE 6
+http://qqtv.nl:8080/65055/65055/31306
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="FR: A LA CARTE 7" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="FRENCH",FR: A LA CARTE 7
+http://qqtv.nl:8080/65055/65055/11637
+#EXTINF:-1 tvg-id="AlHayat.eg" tvg-name="FR: A LA CARTE 8" tvg-logo="https://television.telerama.fr/sites/tr_master/files/sheet_media/tv/150x150/523.png" group-title="FRENCH",FR: A LA CARTE 8
+http://qqtv.nl:8080/65055/65055/31305
+#EXTINF:-1 tvg-id="RMCSport2.fr" tvg-name="FR: RMC SPORTS 2" tvg-logo="https://www.sambofrance.com/sites/default/files/styles/medium/public/actualite/image/rmc_sport_fb_0.png" group-title="FRENCH",FR: RMC SPORTS 2
+http://qqtv.nl:8080/65055/65055/31263
+#EXTINF:-1 tvg-id="RMCSport3.fr" tvg-name="FR: RMC SPORTS 3" tvg-logo="https://www.sambofrance.com/sites/default/files/styles/medium/public/actualite/image/rmc_sport_fb_0.png" group-title="FRENCH",FR: RMC SPORTS 3
+http://qqtv.nl:8080/65055/65055/31262
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="FR: ORANGE CINE 1" tvg-logo="http://38.143.137.20/logo/prestige/France/ocs_max.png" group-title="FRENCH",FR: ORANGE CINE 1
+http://qqtv.nl:8080/65055/65055/11685
+#EXTINF:-1 tvg-id="" tvg-name="FR: ORANGE CINE 2" tvg-logo="http://38.143.137.20/logo/prestige/France/ocs_max.png" group-title="FRENCH",FR: ORANGE CINE 2
+http://qqtv.nl:8080/65055/65055/11652
+#EXTINF:-1 tvg-id="" tvg-name="FR: ORANGE CINE 3" tvg-logo="http://38.143.137.20/logo/prestige/France/ocs_max.png" group-title="FRENCH",FR: ORANGE CINE 3
+http://qqtv.nl:8080/65055/65055/11658
+#EXTINF:-1 tvg-id="" tvg-name="FR: ORANGE CINE 4" tvg-logo="http://38.143.137.20/logo/prestige/France/ocs_max.png" group-title="FRENCH",FR: ORANGE CINE 4
+http://qqtv.nl:8080/65055/65055/11656
+#EXTINF:-1 tvg-id="" tvg-name="FR: ORANGE CINE 5" tvg-logo="http://38.143.137.20/logo/prestige/France/ocs_max.png" group-title="FRENCH",FR: ORANGE CINE 5
+http://qqtv.nl:8080/65055/65055/11657
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="FR: beIN SPORTS MAX 04 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/bein-sports-max-4-qa-fr.png" group-title="FRENCH",FR: beIN SPORTS MAX 04 HD
+http://qqtv.nl:8080/65055/65055/31191
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="FR: beIN SPORTS MAX 05 HD." tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_05_hd.png" group-title="FRENCH",FR: beIN SPORTS MAX 05 HD.
+http://qqtv.nl:8080/65055/65055/31190
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="FR: beIN SPORTS MAX 06 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_06_hd.png" group-title="FRENCH",FR: beIN SPORTS MAX 06 HD
+http://qqtv.nl:8080/65055/65055/31189
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="FR: beIN SPORTS MAX 07 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_07_hd.png" group-title="FRENCH",FR: beIN SPORTS MAX 07 HD
+http://qqtv.nl:8080/65055/65055/31188
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="FR: beIN SPORTS MAX 08 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_08_hd.png" group-title="FRENCH",FR: beIN SPORTS MAX 08 HD
+http://qqtv.nl:8080/65055/65055/31187
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="FR: beIN SPORTS MAX 09 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_09_hd.png" group-title="FRENCH",FR: beIN SPORTS MAX 09 HD
+http://qqtv.nl:8080/65055/65055/31186
+#EXTINF:-1 tvg-id="beINSportsMax1.tr" tvg-name="FR: beIN SPORTS MAX 10 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/be_in_mena_sports_max_10_hd.png" group-title="FRENCH",FR: beIN SPORTS MAX 10 HD
+http://qqtv.nl:8080/65055/65055/31185
+#EXTINF:-1 tvg-id="BeinSports1.fr" tvg-name="FR: beIN SPORT 01 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/bein-sports-1-qa-fr.png" group-title="FRENCH",FR: beIN SPORT 01 HD
+http://qqtv.nl:8080/65055/65055/31194
+#EXTINF:-1 tvg-id="BeinSports2.fr" tvg-name="FR: beIN SPORT 02 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/bein-sports-2-qa-fr.png" group-title="FRENCH",FR: beIN SPORT 02 HD
+http://qqtv.nl:8080/65055/65055/31193
+#EXTINF:-1 tvg-id="BeinSports3.fr" tvg-name="FR: beIN SPORT 03 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/bein-sports-3-qa-fr.png" group-title="FRENCH",FR: beIN SPORT 03 HD
+http://qqtv.nl:8080/65055/65055/31192
+#EXTINF:-1 tvg-id="CNews.fr" tvg-name="FR: CNEWS HD" tvg-logo="http://38.143.137.20/logo/prestige/France/cnews.png" group-title="FRENCH",FR: CNEWS HD
+http://qqtv.nl:8080/65055/65055/412183
+#EXTINF:-1 tvg-id="" tvg-name="FR: CRTV HD" tvg-logo="http://38.143.137.20/logo/prestige/Cameroon/crtv_cameroon.png" group-title="FRENCH",FR: CRTV HD
+http://qqtv.nl:8080/65055/65055/412184
+#EXTINF:-1 tvg-id="" tvg-name="FR: CSTAR HD" tvg-logo="http://38.143.137.20/logo/prestige/Cameroon/africa-movie-star-cm.png" group-title="FRENCH",FR: CSTAR HD
+http://qqtv.nl:8080/65055/65055/412185
+#EXTINF:-1 tvg-id="CrimeDistrict.fr" tvg-name="FR: CRIME DISTRICT HD" tvg-logo="http://38.143.137.20/logo/prestige/France/crime_district_fr.png" group-title="FRENCH",FR: CRIME DISTRICT HD
+http://qqtv.nl:8080/65055/65055/412186
+#EXTINF:-1 tvg-id="ComedyCentral.fr" tvg-name="FR: COMEDY CENTRAL HD" tvg-logo="http://38.143.137.20/logo/prestige/France/comedy-central-deutschland-us-de.png" group-title="FRENCH",FR: COMEDY CENTRAL HD
+http://qqtv.nl:8080/65055/65055/412187
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL+ FORMULA 1 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplusformula1.png" group-title="FRENCH",FR: CANAL+ FORMULA 1 HD
+http://qqtv.nl:8080/65055/65055/412188
+#EXTINF:-1 tvg-id="Cherie25.fr" tvg-name="FR: CHERIE 25 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/cherie25-fr.png" group-title="FRENCH",FR: CHERIE 25 HD
+http://qqtv.nl:8080/65055/65055/412189
+#EXTINF:-1 tvg-id="" tvg-name="FR: CHERIFLA HD" tvg-logo="http://38.143.137.20/logo/prestige/France/cherifla.png" group-title="FRENCH",FR: CHERIFLA HD
+http://qqtv.nl:8080/65055/65055/412190
+#EXTINF:-1 tvg-id="CheddarBusiness.us" tvg-name="FR: CHEDDAR NEWS HD" tvg-logo="http://38.143.137.20/logo/prestige/France/cheddar.png" group-title="FRENCH",FR: CHEDDAR NEWS HD
+http://qqtv.nl:8080/65055/65055/412191
+#EXTINF:-1 tvg-id="ChassePeche.fr" tvg-name="FR: CHASSE & PECHE HD" tvg-logo="http://38.143.137.20/logo/prestige/France/chasse_et_peche.png" group-title="FRENCH",FR: CHASSE & PECHE HD
+http://qqtv.nl:8080/65055/65055/412193
+#EXTINF:-1 tvg-id="" tvg-name="FR: CANAL 2 INTERNATIONAL HD" tvg-logo="http://38.143.137.20/logo/prestige/Cameroon/canal2_international_cm.png" group-title="FRENCH",FR: CANAL 2 INTERNATIONAL HD
+http://qqtv.nl:8080/65055/65055/412194
+#EXTINF:-1 tvg-id="Automoto.fr" tvg-name="FR: AUTOMOTO HD" tvg-logo="http://38.143.137.20/logo/prestige/France/automoto-la-chaine-fr.png" group-title="FRENCH",FR: AUTOMOTO HD
+http://qqtv.nl:8080/65055/65055/412195
+#EXTINF:-1 tvg-id="" tvg-name="FR: ATTESSIA TV HD" tvg-logo="http://38.143.137.20/logo/prestige/France/attessia.png" group-title="FRENCH",FR: ATTESSIA TV HD
+http://qqtv.nl:8080/65055/65055/412196
+#EXTINF:-1 tvg-id="AntennaTV.us" tvg-name="FR: ANTENNE A HD" tvg-logo="http://38.143.137.20/logo/prestige/France/antenne_A.png" group-title="FRENCH",FR: ANTENNE A HD
+http://qqtv.nl:8080/65055/65055/412197
+#EXTINF:-1 tvg-id="Animaux.fr" tvg-name="FR: ANIMAUX HD" tvg-logo="http://38.143.137.20/logo/prestige/France/animaux_fr.png" group-title="FRENCH",FR: ANIMAUX HD
+http://qqtv.nl:8080/65055/65055/412198
+#EXTINF:-1 tvg-id="" tvg-name="FR: A+ INTERNATIONAL HD" tvg-logo="http://38.143.137.20/logo/prestige/France/a_plus_fr_centre.png" group-title="FRENCH",FR: A+ INTERNATIONAL HD
+http://qqtv.nl:8080/65055/65055/412200
