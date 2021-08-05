@@ -2459,3 +2459,66 @@ http://qqtv.nl:8080/65055/65055/412197
 http://qqtv.nl:8080/65055/65055/412198
 #EXTINF:-1 tvg-id="" tvg-name="FR: A+ INTERNATIONAL HD" tvg-logo="http://38.143.137.20/logo/prestige/France/a_plus_fr_centre.png" group-title="FRENCH",FR: A+ INTERNATIONAL HD
 http://qqtv.nl:8080/65055/65055/412200
+
+#EXTINF:-1 tvg-id="France24.fr" tvg-name="FR: FRANCE 24 HD" tvg-logo="http://38.143.137.20/logo/prestige/France/france24_fr.png" group-title="FRENCH",FR: FRANCE 24 HD
+http://qqtv.nl:8080/65055/65055/330688
+#EXTINF:-1 tvg-id="TVOne.us" tvg-name="FR: TVA OUEST HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/chau_tva_carleton.png" group-title="FRENCH",FR: TVA OUEST HD
+http://qqtv.nl:8080/65055/65055/275631
+#EXTINF:-1 tvg-id="CTVMontreal.ca" tvg-name="FR: TVA MONTREAL HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/chau_tva_carleton.png" group-title="FRENCH",FR: TVA MONTREAL HD
+http://qqtv.nl:8080/65055/65055/275630
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="FR: TVA QUEBEC CITY HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/chau_tva_carleton.png" group-title="FRENCH",FR: TVA QUEBEC CITY HD
+http://qqtv.nl:8080/65055/65055/56487
+#EXTINF:-1 tvg-id="" tvg-name="FR: TV5 MONDE HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tv-5-quebec-canada-fr-ca.png" group-title="FRENCH",FR: TV5 MONDE HD
+http://qqtv.nl:8080/65055/65055/31300
+#EXTINF:-1 tvg-id="MTVDance.au" tvg-name="FR: TVA HULL HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/chau_tva_carleton.png" group-title="FRENCH",FR: TVA HULL HD
+http://qqtv.nl:8080/65055/65055/56488
+#EXTINF:-1 tvg-id="CasaTV.ca" tvg-name="FR: CASA CANADA" tvg-logo="http://38.143.137.20/logo/prestige/Canada/casa_tv_ca.png" group-title="FRENCH",FR: CASA CANADA
+http://qqtv.nl:8080/65055/65055/54573
+#EXTINF:-1 tvg-id="Prise2.ca" tvg-name="FR: PRISE CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Prise_2_2010.svg/220px-Prise_2_2010.svg.png" group-title="FRENCH",FR: PRISE CANADA
+http://qqtv.nl:8080/65055/65055/21055
+#EXTINF:-1 tvg-id="CanalD.ca" tvg-name="FR: CANAL D CANADA" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_decale.png" group-title="FRENCH",FR: CANAL D CANADA
+http://qqtv.nl:8080/65055/65055/54572
+#EXTINF:-1 tvg-id="VRAK.ca" tvg-name="FR: VRAK TV CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Logo_VRAK.png/200px-Logo_VRAK.png" group-title="FRENCH",FR: VRAK TV CANADA
+http://qqtv.nl:8080/65055/65055/21021
+#EXTINF:-1 tvg-id="AddikTV.ca" tvg-name="FR: ADDIK TV CANADA" tvg-logo="http://38.143.137.20/logo/prestige/Canada/addik_tv.png" group-title="FRENCH",FR: ADDIK TV CANADA
+http://qqtv.nl:8080/65055/65055/54570
+#EXTINF:-1 tvg-id="CanalVie.ca" tvg-name="FR: CANAL VIE CANADA" tvg-logo="http://38.143.137.20/logo/prestige/Canada/canal-vie-ca.png" group-title="FRENCH",FR: CANAL VIE CANADA
+http://qqtv.nl:8080/65055/65055/21135
+#EXTINF:-1 tvg-id="CanalplusSeries.fr" tvg-name="FR: SERIES + HD CANADA" tvg-logo="https://media.glassdoor.com/sqll/649032/solar-energy-research-institute-of-singapore-squarelogo-1466502266952.png" group-title="FRENCH",FR: SERIES + HD CANADA
+http://qqtv.nl:8080/65055/65055/21052
+#EXTINF:-1 tvg-id="RDINews.ca" tvg-name="FR: ICI RDI HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/ici-rdi-ca.png" group-title="FRENCH",FR: ICI RDI HD
+http://qqtv.nl:8080/65055/65055/21054
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="FR: ICI ARTV CANADA" tvg-logo="http://38.143.137.20/logo/prestige/Canada/ici-radio-canada-tele-ca.png" group-title="FRENCH",FR: ICI ARTV CANADA
+http://qqtv.nl:8080/65055/65055/31302
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="FR: ICI RADIO TELE QUEBEC HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/ici-rdi-ca.png" group-title="FRENCH",FR: ICI RADIO TELE QUEBEC HD
+http://qqtv.nl:8080/65055/65055/275635
+#EXTINF:-1 tvg-id="ICIRadioCanadaTeleToronto-ca" tvg-name="FR: ICI RADIO TELE TORONTO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/TV5_%28logo%29.svg/150px-TV5_%28logo%29.svg.png" group-title="FRENCH",FR: ICI RADIO TELE TORONTO HD
+http://qqtv.nl:8080/65055/65055/21031
+#EXTINF:-1 tvg-id="ICIRadioCanadaMontreal.ca" tvg-name="FR: ICI RADIO TELE MONTREAL HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/ICI_Montreal.png/200px-ICI_Montreal.png" group-title="FRENCH",FR: ICI RADIO TELE MONTREAL HD
+http://qqtv.nl:8080/65055/65055/21081
+#EXTINF:-1 tvg-id="ICIRadioCanadaToronto.ca" tvg-name="FR: ICI RADIO TELE VANCOUVER" tvg-logo="http://38.143.137.20/logo/prestige/Canada/ici-radio-canada-tele-ca.png" group-title="FRENCH",FR: ICI RADIO TELE VANCOUVER
+http://qqtv.nl:8080/65055/65055/21080
+#EXTINF:-1 tvg-id="UnisTV.ca" tvg-name="FR: UNIS TV CANADA" tvg-logo="http://38.143.137.20/logo/prestige/Canada/unis_ca.png" group-title="FRENCH",FR: UNIS TV CANADA
+http://qqtv.nl:8080/65055/65055/56489
+#EXTINF:-1 tvg-id="Seasons.fr" tvg-name="FR: SEASONS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/7/7c/Moi_et_compagnie_t%C3%A9l%C3%A9vision_2013_logo.png" group-title="FRENCH",FR: SEASONS HD
+http://qqtv.nl:8080/65055/65055/56484
+#EXTINF:-1 tvg-id="Cinepop.ca" tvg-name="FR: CINE+ POP HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/0d/Cinepop_2016.png" group-title="FRENCH",FR: CINE+ POP HD
+http://qqtv.nl:8080/65055/65055/56491
+#EXTINF:-1 tvg-id="CanalZ.be" tvg-name="FR: CANAL Z HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/2016_CPAC_logo.svg/220px-2016_CPAC_logo.svg.png" group-title="FRENCH",FR: CANAL Z HD
+http://qqtv.nl:8080/65055/65055/56482
+#EXTINF:-1 tvg-id="ScienceAndVie.fr" tvg-name="FR: SCIENCE ET VIE HD" tvg-logo="http://38.143.137.20/logo/prestige/France/science_et_vie_tv_fr.png" group-title="FRENCH",FR: SCIENCE ET VIE HD
+http://qqtv.nl:8080/65055/65055/21023
+#EXTINF:-1 tvg-id="RDSInfo.ca" tvg-name="FR: RDS INFO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/V_Tele_2012.svg/200px-V_Tele_2012.svg.png" group-title="FRENCH",FR: RDS INFO
+http://qqtv.nl:8080/65055/65055/21025
+#EXTINF:-1 tvg-id="10TV.in" tvg-name="FR: CANAL CUISNE HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canal-plus-haha-myanmar-fr-mm.png" group-title="FRENCH",FR: CANAL CUISNE HD
+http://qqtv.nl:8080/65055/65055/275632
+#EXTINF:-1 tvg-id="Canal15.cr" tvg-name="FR: CANAL+ HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_clair_fransat.png" group-title="FRENCH",FR: CANAL+ HD
+http://qqtv.nl:8080/65055/65055/275636
+#EXTINF:-1 tvg-id="CanalPlusCinema.mu" tvg-name="FR: CANAL ALPHA HD" tvg-logo="http://38.143.137.20/logo/prestige/France/canalplus_fr_cinema.png" group-title="FRENCH",FR: CANAL ALPHA HD
+http://qqtv.nl:8080/65055/65055/275637
+#EXTINF:-1 tvg-id="Historia.ca" tvg-name="FR: HISTORIA HD" tvg-logo="http://38.143.137.20/logo/prestige/France/histoire-tv-fr.png" group-title="FRENCH",FR: HISTORIA HD
+http://qqtv.nl:8080/65055/65055/21083
+#EXTINF:-1 tvg-id="Zeste.ca" tvg-name="FR: ZESTE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Zeste_HD.png/150px-Zeste_HD.png" group-title="FRENCH",FR: ZESTE
+http://qqtv.nl:8080/65055/65055/21012
+#EXTINF:-1 tvg-id="TeleRebelde.cu" tvg-name="FR: TELE QUEBEC HD" tvg-logo="http://38.143.137.20/logo/prestige/Canada/tele_quebec.png" group-title="FRENCH",FR: TELE QUEBEC HD
+http://qqtv.nl:8080/65055/65055/21041
